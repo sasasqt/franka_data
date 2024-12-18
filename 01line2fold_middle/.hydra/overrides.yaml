@@ -1,0 +1,4 @@
+- franka_rope.physics_dt=1.0/30.0
+- franka_rope.rendering_dt=1.0/30.0
+- franka_rope._randomize=False
+- franka_rope._ropeLength=0.4
