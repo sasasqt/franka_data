@@ -1,0 +1,3 @@
+        usd_target_tshape_xform.AddTranslateOp().Set(Gf.Vec3f([0.1,0.1,0]))
+        usd_target_tshape_xform.AddRotateXYZOp().Set(Gf.Vec3f([0,0,-30]))
+        usd_target_tshape_xform.AddScaleOp().Set(Gf.Vec3f([1,1,1]))
